@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551407552389",
+    "project_id": "notas-25cc3",
+    "storage_bucket": "notas-25cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551407552389:android:2f3fa9ba932b5ec00666ec",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpcRtYgxMcPJ5E94Za6mU3p2Y_HV2ak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
